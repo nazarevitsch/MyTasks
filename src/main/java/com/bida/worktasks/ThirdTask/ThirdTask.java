@@ -13,6 +13,7 @@ public class ThirdTask {
 
     public static void start(){
         readFile(file1);
+        readFile(file2);
     }
 
 
